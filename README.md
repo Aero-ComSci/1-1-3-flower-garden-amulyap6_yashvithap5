@@ -7,3 +7,6 @@ the type of flower and color must be written in lower case and must NOT be plura
 
 ### Here is an example of a working input
 ![image](https://github.com/user-attachments/assets/9e070e7b-bfc2-4caa-9123-3d08dc7c6ca8)
+
+there shouldn't be any extra spaces
+This program also only runs once, so in order to retest something you need to re-run it
