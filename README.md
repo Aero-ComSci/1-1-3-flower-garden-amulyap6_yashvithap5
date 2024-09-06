@@ -6,3 +6,4 @@ The only input that will properly run in this program is through the format "#_o
 the type of flower and color must be written in lower case and must NOT be plural and should be spelled right
 
 ### Here is an example of a working input
+![image](https://github.com/user-attachments/assets/9e070e7b-bfc2-4caa-9123-3d08dc7c6ca8)
